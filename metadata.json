@@ -1,0 +1,5 @@
+{
+  "name": "GHL Sync Multi-Company Dashboard",
+  "description": "A high-performance React dashboard for managing multiple GoHighLevel accounts, tracking appointment quotas, and monitoring automated alerts with a sleek professional UI.",
+  "requestFramePermissions": []
+}
